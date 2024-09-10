@@ -1,0 +1,24 @@
+.canvas-container {
+    width: 700px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 50px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.3);
+}
+
+
+.controls {
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+}
+
+button {
+    padding: 8px 16px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ddd;
+}
