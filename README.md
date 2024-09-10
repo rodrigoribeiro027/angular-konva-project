@@ -10,7 +10,7 @@ Este projeto é uma aplicação web construída com Angular e Konva.js que permi
 
 ## 🎨 Captura de Tela
 
-![Exemplo do Projeto de Anotações com Angular e Konva.js](https://github.com/rodrigoribeiro027/angular-konva-project/blob/main/angular-konva-project/src/assets/app.png)
+![Exemplo do Projeto de Anotações com Angular e Konva.js](https://github.com/rodrigoribeiro027/angular-konva-project/blob/main/angular-konva-project/src/assets/image.png)
 
 ## 🛠️ Tecnologias Utilizadas
 
