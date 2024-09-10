@@ -4,7 +4,7 @@ Este projeto é uma aplicação web construída com Angular e Konva.js que permi
 
 ## Captura de tela
 
-![Projeto de Imagens com Angular e Konva.js Example](https://github.com/rodrigoribeiro027/)
+![Projeto de Imagens com Angular e Konva.js Example](https://github.com/rodrigoribeiro027/angular-konva-project/blob/main/angular-konva-project/src/assets/app.png)
 
 ## Funcionalidades
 
