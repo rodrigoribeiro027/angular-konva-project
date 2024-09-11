@@ -1,0 +1,24 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Click na imagem, escreva o comentário, arraste para o local desejado e confirme o local
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-header collapse="condense">
+    <ion-toolbar>
+      <ion-title size="large">Adicionar Comentários</ion-title>
+    </ion-toolbar>
+  </ion-header>
+
+  <br>
+  <div class="controls">
+    <button ion-button (click)="saveComments()">Confirmar</button>
+    <button ion-button (click)="resetComments()">Resetar</button>
+  </div>
+  <br>
+  <div #canvasContainer class="canvas-container"></div>
+  <br>
+</ion-content>

@@ -1,0 +1,7 @@
+{
+  "name": "konva_project",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
